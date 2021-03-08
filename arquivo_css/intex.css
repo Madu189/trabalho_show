@@ -1,0 +1,37 @@
+img{
+    width: 131px ;
+    height: 138px
+  }
+
+  h1{
+    text-align: center ;
+    font-family: verdana,sans-serif;
+    font-size: 25pt;
+    color: darkcyan;
+  }
+
+  h2{
+    text-align: center;
+    font-size: 20pt;
+    font-family: verdana,sans-serif;
+    color:darkcyan;
+  }
+
+  header{
+    font-family: helvetica,sans-serif;
+    text-align: justify;
+    font-size: 10pt;
+     
+
+  }
+   
+ 
+  p{
+    font-family:verdana,sans-serif;
+    text-align: justify;
+    font: 16px;
+    color: black;
+  }
+ 
+
+ 
